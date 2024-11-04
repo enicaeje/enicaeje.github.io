@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://enicaeje.github.io/FlE/sitemap_index.txt
+Sitemap: https://enicaeje.github.io/Twv/sitemap_index.txt
+Sitemap: https://enicaeje.github.io/bPG/sitemap_index.txt
+Sitemap: https://enicaeje.github.io/gxF/sitemap_index.txt
